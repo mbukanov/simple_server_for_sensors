@@ -1,0 +1,6 @@
+#ifndef SENSORSCONFIG_HPP
+#define SENSORSCONFIG_HPP
+
+
+
+#endif

@@ -1,0 +1,12 @@
+{[
+    1 : {
+        "name": "Water sensor",
+        "place": "Kitchen",
+        "value": "0"
+    },
+    2: {
+        "name": "Open door",
+        "place": "Hall",
+        "value": "1"
+    }
+]}
